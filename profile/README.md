@@ -4,8 +4,6 @@ Mein-Host ist ein führendes Unternehmen im Bereich Hosting und Netzwerklösunge
 
 ### Unsere Leistungen
 
-<img src="[https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg](https://github.com/Mein-Host-com/.github/blob/main/profile/web-svgrepo-com.svg)" width="50" height="50">
-
 - **Webhosting:** Wir bieten maßgeschneiderte Webhosting-Lösungen für Unternehmen und Privatpersonen.
 - **Serverlösungen:** Unsere leistungsstarken Serverlösungen garantieren eine reibungslose Performance und Sicherheit.
 - **Game-Server:** Wir unterstützen unsere Kunden bei der Einrichtung und Wartung ihrer Game-Server, um ein reibungsloses Spielerlebnis zu gewährleisten.
