@@ -2,6 +2,8 @@
 
 Mein-Host ist ein führendes Unternehmen im Bereich Hosting und Netzwerklösungen. Unsere Mission ist es, unseren Kunden hochwertige und zuverlässige Dienstleistungen anzubieten, die ihren Anforderungen entsprechen.
 
+<img src="https://github.com/Mein-Host-com/.github/blob/main/profile/web-svgrepo-com.svg" width="50" height="50"></img>
+
 ### Unsere Leistungen
 
 - **Webhosting:** Wir bieten maßgeschneiderte Webhosting-Lösungen für Unternehmen und Privatpersonen.
