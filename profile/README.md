@@ -1,8 +1,7 @@
+[<img src="https://github.com/Mein-Host-com/.github/blob/main/profile/logo.jpg" width="50" height="50">](#) 
 ## Willkommen bei Mein-Host 👋
 
 Mein-Host ist ein führendes Unternehmen im Bereich Hosting und Netzwerklösungen. Unsere Mission ist es, unseren Kunden hochwertige und zuverlässige Dienstleistungen anzubieten, die ihren Anforderungen entsprechen.
-
-<img src="https://github.com/Mein-Host-com/.github/blob/main/profile/web-svgrepo-com.svg" width="50" height="50"></img>
 
 ### Unsere Leistungen
 
